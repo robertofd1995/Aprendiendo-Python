@@ -16,13 +16,9 @@ Original              Mover Fila 1 a 3
 
 matrizEj = \[ \[1,2,3\],\[4,5,6\],\[7,8,9\] \]
 
-moverFila\(matrizEj,1,3\)
+matriz = moverFila\(matrizEj,1,3\)
 
 print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
-
-
-
-
 
 Ejercicio n 2 :
 
@@ -40,11 +36,9 @@ Original          Mover Columnar 1 a 3
 
 matrizEj = \[ \[1,2,3\],\[4,5,6\],\[7,8,9\] \]
 
-moverColumna\(matrizEj,1,3\)
+matriz = moverColumna\(matrizEj,1,3\)
 
 print matriz     =&gt; \[ \[3,2,1\] , \[6,5,2\] , \[9,8,3\] \]
-
-
 
 Ejercicio 3 :
 
@@ -54,17 +48,25 @@ Ejemplo :
 
 Matriz A                Matriz B
 
-1 2                         3 2 
+1 2                         3 2
 
-4 5                         6 5 
-
-
+4 5                         6 5
 
 matrizA = \[ \[1,2\],\[4,5\] \]
 
 matrizB = \[ \[3,2\],\[6,5\] \]
 
-def multiplicarMatrices\(matrizA,matrizB\)
+matriz= multiplicarMatrices\(matrizA,matrizB\)
 
-print matriz =&gt; \[ \[3,2,1\] , \[6,5,2\] , \[9,8,3\] \]
+print matriz =&gt; \[ \[15,12 \] , \[33,26\] \]
+
+
+
+Ejercicio 4 :
+
+Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo.html) de una matriz \(Tienes un ejemplo en el link\)
+
+
+
+
 
