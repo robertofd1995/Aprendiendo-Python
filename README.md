@@ -1,3 +1,8 @@
-# My Awesome Book
+# Aprendiendo Python
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Este libro contendra ejercicios en español para aprender python poco a poco y sus soluciones
+
+
+
+PD Juan . Las soluciones las subire una vez hayas realizado los ejercicios , por si en algun momento quieres volver a revisarlos 
+
