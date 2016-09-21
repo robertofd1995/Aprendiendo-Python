@@ -1,6 +1,6 @@
 # Listas en Python
 
-Ejercicio n 2 :
+### **Ejercicio n 1 :**
 
 Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una fila elegida se desplace horizontalmente  a otra posicion .
 
@@ -20,7 +20,7 @@ matriz = moverFila\(matrizEj,1,3\)
 
 print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
 
-Ejercicio n 2 :
+### **Ejercicio n 2 :**
 
 Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una columna elegida se desplace verticalmente a otra posicion .
 
@@ -40,7 +40,7 @@ matriz = moverColumna\(matrizEj,1,3\)
 
 print matriz     =&gt; \[ \[3,2,1\] , \[6,5,2\] , \[9,8,3\] \]
 
-Ejercicio 3 :
+### Ejercicio 3 :
 
 Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una columna elegida se desplace verticalmente a otra posicion .
 
@@ -60,13 +60,7 @@ matriz= multiplicarMatrices\(matrizA,matrizB\)
 
 print matriz =&gt; \[ \[15,12 \] , \[33,26\] \]
 
-
-
-Ejercicio 4 :
+### Ejercicio 4 :
 
 Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo.html) de una matriz \(Tienes un ejemplo en el link\)
-
-
-
-
 
