@@ -30,12 +30,20 @@ print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
 
 ```python
 
-matriz = [ [1,2,3], [4,5,6], [7,8,9] ]matriz2 = [ [1,2,3,4], [5,6,7,8], [9,10,11,12], [13,14,15,16] ]
+matriz = [ [1,2,3], [4,5,6], [7,8,9] ]
+matriz2 = [ [1,2,3,4], [5,6,7,8], [9,10,11,12], [13,14,15,16] ]
 
 
-def moverFila(matriz,filaOri,filaDest): aux=matriz[filaDest] matriz[filaDest]=matriz[filaOri] matriz[filaOri]=aux  return matriz
+def moverFila(matriz,filaOri,filaDest): 
+    
+    aux=matriz[filaDest]
+    matriz[filaDest]=matriz[filaOri]
+    matriz[filaOri]=aux 
 
-print moverFila(matriz,1,2)print moverFila(matriz2,1,2)
+    return matriz
+
+print moverFila(matriz,1,2)
+print moverFila(matriz2,1,2)
 
 
 ```
