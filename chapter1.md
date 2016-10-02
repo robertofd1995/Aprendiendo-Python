@@ -70,24 +70,21 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 
 
 
-{%ace edit=true, lang='c_cpp'%}
+## The Arrow function
+Now this should be syntax highlighted
+In ES5
 
-// This is a hello world program for C.
-#include <stdio.h>
-
-int main(){
-  printf("Hello World!");
-  return 1;
-}
-
+{%ace edit=false, lang='javascript', check=false, theme="tomorrow" %}
+var myFunction = function(num) {  
+    return num + num;
+};
 {%endace%}
 
-asdadsd
-asda
-sd
-asda
+In ES6
 
-asdasddasdad
+{%ace edit=false, lang='javascript', check=false, theme="tomorrow" %}
+let myFunction = (num) => num + num;
+{%endace%}
 
 
 
