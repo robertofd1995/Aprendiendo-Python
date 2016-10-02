@@ -21,7 +21,7 @@ matriz = moverFila\(matrizEj,1,3\)
 
 print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
 
-<button class="section" target="section1_1" show="Show next section" hide="Hide next section"></button>
+<button class="section" target="section0_1" show="Mostrar Solucion" hide="Ocultar solucion"></button>
 
 <!--endsec-->
 
