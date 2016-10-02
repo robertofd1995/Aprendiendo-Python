@@ -1,7 +1,7 @@
 # Listas en Python
 
 
-<!--sec data-title="Ejercicio 1" data-id="section0" data-show=true data-collapse:true ces-->
+<!--sec data-title="Ejercicio 1" data-id="section0" data-show=true data-collapse=true ces-->
 
 Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una fila elegida se desplace horizontalmente  a otra posicion .
 
@@ -23,7 +23,7 @@ print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
 
 <!--endsec-->
 
-<!--sec data-title="Ejercicio 2" data-id="section1" data-show=true data-collapse:true ces-->
+<!--sec data-title="Ejercicio 2" data-id="section1" data-show=true data-collapse=true ces-->
 
 Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una columna elegida se desplace verticalmente a otra posicion .
 
@@ -46,7 +46,7 @@ print matriz     =&gt; \[ \[3,2,1\] , \[6,5,2\] , \[9,8,3\] \]
 <!--endsec-->
 
 
-<!--sec data-title="Ejercicio 3" data-id="section2" data-show=true data-collapse:true ces-->
+<!--sec data-title="Ejercicio 3" data-id="section2" data-show=true data-collapse=true ces-->
 
 Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una columna elegida se desplace verticalmente a otra posicion .
 
@@ -69,7 +69,7 @@ print matriz =&gt; \[ \[15,12 \] , \[33,26\] \]
 <!--endsec-->
 
 
-<!--sec data-title="Ejercicio 4" data-id="section3" data-show=true data-collapse:true ces-->
+<!--sec data-title="Ejercicio 4" data-id="section3" data-show=true data-collapse=true ces-->
 
 
 Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo.html) de una matriz \(Tienes un ejemplo en el link\)
@@ -77,6 +77,11 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 <!--endsec-->
 
 
+{%ace edit=false, lang='javascript', check=false, theme="tomorrow" %}
+var myFunction = function(num) {  
+    return num + num;
+};
+{%endace%}
 
 
 
