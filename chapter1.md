@@ -75,7 +75,7 @@ print matriz     =&gt; \[ \[3,2,1\] , \[6,5,2\] , \[9,8,3\] \]
 
 <!--endsec-->
 
-<!--sec data-title="Ejercicio 2 Solucion" data-id="section1_1" data-show=true data-collapse=true ces-->
+<!--sec data-title="Ejercicio 2 Solucion" data-id="section1_1" data-show=false data-collapse=true ces-->
 
 
 ```python
