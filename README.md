@@ -10,29 +10,5 @@ PD Juan . Las soluciones las subire una vez hayas realizado los ejercicios , por
 
 
 
-{%ace edit=true, lang='c\_cpp'%}
 
-
-
-\/\/ This is a hello world program for C.
-
-\#include &lt;stdio.h&gt;
-
-
-
-int main\(\){
-
- printf\("Hello World!"\);
-
- return 1;
-
-}
-
-
-
-{%endace%}
-
-
-
-asd
 
