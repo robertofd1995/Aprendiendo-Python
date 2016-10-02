@@ -21,6 +21,25 @@ matriz = moverFila\(matrizEj,1,3\)
 
 print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
 
+<button class="section" target="section1_1" show="Show next section" hide="Hide next section"></button>
+
+<!--endsec-->
+
+<!--sec data-title="Ejercicio 1_1" data-id="section0" data-show=false ces-->
+
+
+```python
+
+matriz = [ [1,2,3], [4,5,6], [7,8,9] ]matriz2 = [ [1,2,3,4], [5,6,7,8], [9,10,11,12], [13,14,15,16] ]
+
+
+def moverFila(matriz,filaOri,filaDest): aux=matriz[filaDest] matriz[filaDest]=matriz[filaOri] matriz[filaOri]=aux  return matriz
+
+print moverFila(matriz,1,2)print moverFila(matriz2,1,2)
+
+
+```
+
 <!--endsec-->
 
 <!--sec data-title="Ejercicio 2" data-id="section1" data-show=true data-collapse=true ces-->
@@ -77,11 +96,7 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 <!--endsec-->
 
 
-{%ace edit=false, lang='javascript', check=false, theme="tomorrow" %}
-var myFunction = function(num) {  
-    return num + num;
-};
-{%endace%}
+
 
 
 
