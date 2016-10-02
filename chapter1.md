@@ -1,24 +1,7 @@
 # Listas en Python
 
-### **Ejercicio n 1 :**
 
-Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una fila elegida se desplace horizontalmente  a otra posicion .
 
-Ejemplo :
-
-Original              Mover Fila 1 a 3
-
-1 2 3                           7 8 9
-
-4 5 6                           6 5 2
-
-7 8 9                           1 2 3
-
-matrizEj = \[ \[1,2,3\],\[4,5,6\],\[7,8,9\] \]
-
-matriz = moverFila\(matrizEj,1,3\)
-
-print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
 
 ### **Ejercicio n 2 :**
 
@@ -65,9 +48,25 @@ print matriz =&gt; \[ \[15,12 \] , \[33,26\] \]
 Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo.html) de una matriz \(Tienes un ejemplo en el link\)
 
 
-<!--sec data-title="Introduction" data-id="section0" data-show=true ces-->
+<!--sec data-title="Ejercicio 1" data-id="section0" data-show=true data-collapse:true ces-->
 
-Insert markdown content here (you should start with h3 if you use heading).
+Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una fila elegida se desplace horizontalmente  a otra posicion .
+
+Ejemplo :
+
+Original              Mover Fila 1 a 3
+
+1 2 3                           7 8 9
+
+4 5 6                           6 5 2
+
+7 8 9                           1 2 3
+
+matrizEj = \[ \[1,2,3\],\[4,5,6\],\[7,8,9\] \]
+
+matriz = moverFila\(matrizEj,1,3\)
+
+print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
 
 <!--endsec-->
 
