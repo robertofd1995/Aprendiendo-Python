@@ -72,16 +72,14 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 ### Test
 {%ace edit=true, lang='python'%}
 
-    #include <sthdio.h>
+#include <sthdio.h>
+a=0
+def lisaaa(){
 
-    a=0
+c=a+b
+return c
 
-    def lisaaa(){
-
-      c=a+b
-      return c
-
-    }
+}
 
 {%endace%}
 
