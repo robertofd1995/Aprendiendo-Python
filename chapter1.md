@@ -71,18 +71,16 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 
 ### Test
 
-{%ace edit=true}
+{%ace edit=true, lang='c_cpp'%}
+// This is a hello world program for C.
+#include <stdio.h>
 
-#include <sthdio.h>
-a=0
-def lisaaa(){
-
-c=a+b
-return c
-
+int main(){
+  printf("Hello World!");
+  return 1;
 }
-
 {%endace%}
+
 
 
 
