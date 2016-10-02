@@ -72,13 +72,12 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 ### Test
 {%ace edit=true, lang='python' %}
 
-def moverElemento(matriz,xOri,yOri,xFin,yFin):
-  
-    aux=matriz[xFin][yFin]
-    matriz[xFin][yFin]=matriz[xOri][yOri]
-    matriz[xOri][yOri]=aux
-    
-    return matriz
+a=0
+def lisaaa(){
+  c=a+b
+  return c
+}
+
 {%endace%}
 
 
