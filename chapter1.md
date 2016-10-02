@@ -69,7 +69,6 @@ print matriz =&gt; \[ \[15,12 \] , \[33,26\] \]
 Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo.html) de una matriz \(Tienes un ejemplo en el link\)
 
 
-### Test
 
 {%ace edit=true, lang='c_cpp'%}
 // This is a hello world program for C.
