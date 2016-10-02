@@ -70,21 +70,7 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 
 
 
-## The Arrow function
-Now this should be syntax highlighted
-In ES5
 
-{%ace edit=false, lang='javascript', check=false, theme="tomorrow" %}
-var myFunction = function(num) {  
-    return num + num;
-};
-{%endace%}
-
-In ES6
-
-{%ace edit=false, lang='javascript', check=false, theme="tomorrow" %}
-let myFunction = (num) => num + num;
-{%endace%}
 
 
 
