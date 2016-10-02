@@ -1,9 +1,5 @@
 # Listas en Python
 
-
-
-
-
 ### **Ejercicio n 1 :**
 
 Realiza una funcion que dada una matriz cuadrada \(es decir de tamaño n x n \) , dada la una fila elegida se desplace horizontalmente  a otra posicion .
@@ -69,10 +65,10 @@ print matriz =&gt; \[ \[15,12 \] , \[33,26\] \]
 Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo.html) de una matriz \(Tienes un ejemplo en el link\)
 
 
+<!--sec data-title="Introduction" data-id="section0" data-show=true ces-->
 
+Insert markdown content here (you should start with h3 if you use heading).
 
-
-
-
+<!--endsec-->
 
 
