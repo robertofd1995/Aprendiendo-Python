@@ -70,7 +70,7 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 
 
 ### Test
-{%ace edit=true, lang='python' , check=true%}
+{%ace edit=true, lang='python' %}
 
 def moverElemento(matriz,xOri,yOri,xFin,yFin):
   
