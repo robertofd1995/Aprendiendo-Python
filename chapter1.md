@@ -70,7 +70,44 @@ matriz = moverColumna\(matrizEj,1,3\)
 
 print matriz     =&gt; \[ \[3,2,1\] , \[6,5,2\] , \[9,8,3\] \]
 
+<button class="section" target="section1_1" show="Mostrar Solucion" hide="Ocultar solucion"></button>
+
+
 <!--endsec-->
+
+<!--sec data-title="Ejercicio 2 Solucion" data-id="section1_1" data-show=true data-collapse=true ces-->
+
+
+```python
+
+def moverColumna(matriz,colOri,colDest):
+
+    
+
+    nFilas = len(matriz)
+
+    nColumnas = len(matriz[0])
+
+    
+
+    aux=0
+
+    for i in range(nFilas):
+
+            aux=matriz[i][colDest]
+
+            matriz[i][colDest]=matriz[i][colOri]
+
+            matriz[i][colOri]=aux
+
+            
+
+    return matriz
+
+```
+
+<!--endsec-->
+
 
 
 <!--sec data-title="Ejercicio 3" data-id="section2" data-show=true data-collapse=true ces-->
@@ -94,6 +131,7 @@ matriz= multiplicarMatrices\(matrizA,matrizB\)
 print matriz =&gt; \[ \[15,12 \] , \[33,26\] \]
 
 <!--endsec-->
+
 
 
 <!--sec data-title="Ejercicio 4" data-id="section3" data-show=true data-collapse=true ces-->
