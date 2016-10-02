@@ -70,7 +70,7 @@ Encuentra el [determinante](http://www.vitutor.com/algebra/determinantes/calculo
 
 
 ### Test
-{%ace edit=true, lang='python' %}
+{%ace edit=true, lang='python'%}
 
     #include <sthdio.h>
 
