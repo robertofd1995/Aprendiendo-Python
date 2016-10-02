@@ -25,7 +25,7 @@ print matriz =&gt; \[ \[7,8,9\] , \[6,5,2\] , \[1,2,3\] \]
 
 <!--endsec-->
 
-<!--sec data-title="Ejercicio 1_1" data-id="section0" data-show=false ces-->
+<!--sec data-title="Ejercicio 1 Solucion" data-id="section0_1" data-show=false ces-->
 
 
 ```python
